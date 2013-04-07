@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+  <id>6253282</id>
+  <name>Twitter API</name>
+  <screen_name>twitterapi</screen_name>
+  <location>San Francisco, CA</location>
+  <profile_image_url>http://a0.twimg.com/profile_images/2284174872/7df3h38zabcvjylnyfe3_normal.png</profile_image_url>
+  <profile_image_url_https>https://si0.twimg.com/profile_images/2284174872/7df3h38zabcvjylnyfe3_normal.png</profile_image_url_https>
+  <url>http://dev.twitter.com</url>
+  <description>The Real Twitter API. I tweet about API changes, service issues and happily answer questions about Twitter and our API. Don't get an answer? It's on my website.</description>
+  <protected>false</protected>
+  <followers_count>1565713</followers_count>
+  <profile_background_color>C0DEED</profile_background_color>
+  <profile_text_color>333333</profile_text_color>
+  <profile_link_color>0084B4</profile_link_color>
+  <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+  <friends_count>34</friends_count>
+  <created_at>Wed May 23 06:01:13 +0000 2007</created_at>
+  <favourites_count>25</favourites_count>
+  <utc_offset>-28800</utc_offset>
+  <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+  <profile_background_image_url>http://a0.twimg.com/profile_background_images/656927849/miyt9dpjz77sc0w3d4vj.png</profile_background_image_url>
+  <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/656927849/miyt9dpjz77sc0w3d4vj.png</profile_background_image_url_https>
+  <profile_background_tile>true</profile_background_tile>
+  <profile_use_background_image>true</profile_use_background_image>
+  <geo_enabled>true</geo_enabled>
+  <verified>true</verified>
+  <statuses_count>3406</statuses_count>
+  <lang>en</lang>
+  <contributors_enabled>false</contributors_enabled>
+  <is_translator>false</is_translator>
+  <listed_count>11440</listed_count>
+  <default_profile>false</default_profile>
+  <default_profile_image>false</default_profile_image>
+  <following></following>
+  <follow_request_sent></follow_request_sent>
+  <notifications></notifications>
+  <status>
+    <created_at>Wed Mar 27 01:19:47 +0000 2013</created_at>
+    <id>316721175038406658</id>
+    <text>In case you didn't know, we have an official account tweeting about Twitter developer topics in Japanese: @TwitterDevJP</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>25</retweet_count>
+    <favorite_count>16</favorite_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="106" end="119">
+          <screen_name>TwitterDevJP</screen_name>
+          <name>TwitterDevJP</name>
+          <id>70915829</id>
+        </user_mention>
+      </user_mentions>
+      <urls/>
+      <hashtags/>
+    </entities>
+  </status>
+</user>

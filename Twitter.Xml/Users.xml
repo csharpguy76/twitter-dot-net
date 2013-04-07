@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users type="array">
+<user>
+  <id>783214</id>
+  <name>Twitter</name>
+  <screen_name>twitter</screen_name>
+  <location>San Francisco, CA</location>
+  <description>Your official source for news, updates and tips from Twitter, Inc.</description>
+  <profile_image_url>http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png</profile_image_url>
+  <profile_image_url_https>https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png</profile_image_url_https>
+  <url>http://blog.twitter.com/</url>
+  <protected>false</protected>
+  <followers_count>17326304</followers_count>
+  <profile_background_color>ACDED6</profile_background_color>
+  <profile_text_color>333333</profile_text_color>
+  <profile_link_color>038543</profile_link_color>
+  <profile_sidebar_fill_color>F6F6F6</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>EEEEEE</profile_sidebar_border_color>
+  <friends_count>120</friends_count>
+  <created_at>Tue Feb 20 14:35:54 +0000 2007</created_at>
+  <favourites_count>22</favourites_count>
+  <utc_offset>-28800</utc_offset>
+  <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+  <profile_background_image_url>http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png</profile_background_image_url>
+  <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png</profile_background_image_url_https>
+  <profile_background_tile>true</profile_background_tile>
+  <profile_use_background_image>true</profile_use_background_image>
+  <notifications></notifications>
+  <geo_enabled>true</geo_enabled>
+  <verified>true</verified>
+  <following></following>
+  <statuses_count>1564</statuses_count>
+  <lang>en</lang>
+  <contributors_enabled>false</contributors_enabled>
+  <follow_request_sent></follow_request_sent>
+  <listed_count>76323</listed_count>
+  <default_profile>false</default_profile>
+  <default_profile_image>false</default_profile_image>
+  <is_translator>false</is_translator>
+  <status>
+    <created_at>Thu Mar 28 16:57:24 +0000 2013</created_at>
+    <id>317319522111614976</id>
+    <text>RT @TwitterStories: Rescued from a sea of fire (with a Tweet): https://t.co/AvNGvxZO6V http://t.co/YVWxffT9Cl</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <favorited>false</favorited>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count>249</retweet_count>
+    <retweeted>false</retweeted>
+    <retweeted_status>
+      <created_at>Thu Mar 28 16:55:08 +0000 2013</created_at>
+      <id>317318950092427264</id>
+      <text>Rescued from a sea of fire (with a Tweet): https://t.co/AvNGvxZO6V http://t.co/YVWxffT9Cl</text>
+      <source>web</source>
+      <truncated>false</truncated>
+      <favorited>false</favorited>
+      <in_reply_to_status_id></in_reply_to_status_id>
+      <in_reply_to_user_id></in_reply_to_user_id>
+      <in_reply_to_screen_name></in_reply_to_screen_name>
+      <retweet_count>249</retweet_count>
+      <retweeted>false</retweeted>
+      <geo/>
+      <coordinates/>
+      <place/>
+      <possibly_sensitive>false</possibly_sensitive>
+      <contributors/>
+      <entities>
+        <user_mentions/>
+        <urls>
+          <url end="66" start="43">
+            <url>https://t.co/AvNGvxZO6V</url>
+            <display_url>stories.twitter.com/en/japan_rescu&#8230;</display_url>
+            <expanded_url>https://stories.twitter.com/en/japan_rescue.html</expanded_url>
+          </url>
+        </urls>
+        <media>
+          <creative end="89" start="67">
+            <type>photo</type>
+            <url>http://t.co/YVWxffT9Cl</url>
+            <media_url>http://pbs.twimg.com/media/BGdX52UCUAIJPaQ.png</media_url>
+            <media_url_https>https://pbs.twimg.com/media/BGdX52UCUAIJPaQ.png</media_url_https>
+            <display_url>pic.twitter.com/YVWxffT9Cl</display_url>
+            <id_str>317318950096621570</id_str>
+            <expanded_url>http://twitter.com/TwitterStories/status/317318950092427264/photo/1</expanded_url>
+            <sizes>
+              <small>
+                <w>340</w>
+                <h>191</h>
+                <resize>fit</resize>
+              </small>
+              <medium>
+                <w>600</w>
+                <h>338</h>
+                <resize>fit</resize>
+              </medium>
+              <thumb>
+                <w>150</w>
+                <h>150</h>
+                <resize>crop</resize>
+              </thumb>
+              <large>
+                <w>862</w>
+                <h>485</h>
+                <resize>fit</resize>
+              </large>
+            </sizes>
+            <id>317318950096621570</id>
+          </creative>
+        </media>
+        <hashtags/>
+      </entities>
+    </retweeted_status>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <possibly_sensitive>false</possibly_sensitive>
+    <contributors/>
+    <entities>
+      <user_mentions>
+        <user_mention end="18" start="3">
+          <id>119134771</id>
+          <screen_name>TwitterStories</screen_name>
+          <name>Stories</name>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url end="86" start="63">
+          <url>https://t.co/AvNGvxZO6V</url>
+          <display_url>stories.twitter.com/en/japan_rescu&#8230;</display_url>
+          <expanded_url>https://stories.twitter.com/en/japan_rescue.html</expanded_url>
+        </url>
+      </urls>
+      <media>
+        <creative end="109" start="87">
+          <source_status_id>317318950092427264</source_status_id>
+          <type>photo</type>
+          <url>http://t.co/YVWxffT9Cl</url>
+          <media_url>http://pbs.twimg.com/media/BGdX52UCUAIJPaQ.png</media_url>
+          <media_url_https>https://pbs.twimg.com/media/BGdX52UCUAIJPaQ.png</media_url_https>
+          <display_url>pic.twitter.com/YVWxffT9Cl</display_url>
+          <id_str>317318950096621570</id_str>
+          <source_status_id_str>317318950092427264</source_status_id_str>
+          <expanded_url>http://twitter.com/TwitterStories/status/317318950092427264/photo/1</expanded_url>
+          <sizes>
+            <small>
+              <w>340</w>
+              <h>191</h>
+              <resize>fit</resize>
+            </small>
+            <medium>
+              <w>600</w>
+              <h>338</h>
+              <resize>fit</resize>
+            </medium>
+            <thumb>
+              <w>150</w>
+              <h>150</h>
+              <resize>crop</resize>
+            </thumb>
+            <large>
+              <w>862</w>
+              <h>485</h>
+              <resize>fit</resize>
+            </large>
+          </sizes>
+          <id>317318950096621570</id>
+        </creative>
+      </media>
+      <hashtags/>
+    </entities>
+  </status>
+</user>
+<user>
+  <id>6253282</id>
+  <name>Twitter API</name>
+  <screen_name>twitterapi</screen_name>
+  <location>San Francisco, CA</location>
+  <description>The Real Twitter API. I tweet about API changes, service issues and happily answer questions about Twitter and our API. Don't get an answer? It's on my website.</description>
+  <profile_image_url>http://a0.twimg.com/profile_images/2284174872/7df3h38zabcvjylnyfe3_normal.png</profile_image_url>
+  <profile_image_url_https>https://si0.twimg.com/profile_images/2284174872/7df3h38zabcvjylnyfe3_normal.png</profile_image_url_https>
+  <url>http://dev.twitter.com</url>
+  <protected>false</protected>
+  <followers_count>1565998</followers_count>
+  <profile_background_color>C0DEED</profile_background_color>
+  <profile_text_color>333333</profile_text_color>
+  <profile_link_color>0084B4</profile_link_color>
+  <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+  <friends_count>34</friends_count>
+  <created_at>Wed May 23 06:01:13 +0000 2007</created_at>
+  <favourites_count>25</favourites_count>
+  <utc_offset>-28800</utc_offset>
+  <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+  <profile_background_image_url>http://a0.twimg.com/profile_background_images/656927849/miyt9dpjz77sc0w3d4vj.png</profile_background_image_url>
+  <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/656927849/miyt9dpjz77sc0w3d4vj.png</profile_background_image_url_https>
+  <profile_background_tile>true</profile_background_tile>
+  <profile_use_background_image>true</profile_use_background_image>
+  <notifications></notifications>
+  <geo_enabled>true</geo_enabled>
+  <verified>true</verified>
+  <following></following>
+  <statuses_count>3406</statuses_count>
+  <lang>en</lang>
+  <contributors_enabled>false</contributors_enabled>
+  <follow_request_sent></follow_request_sent>
+  <listed_count>11441</listed_count>
+  <default_profile>false</default_profile>
+  <default_profile_image>false</default_profile_image>
+  <is_translator>false</is_translator>
+  <status>
+    <created_at>Wed Mar 27 01:19:47 +0000 2013</created_at>
+    <id>316721175038406658</id>
+    <text>In case you didn't know, we have an official account tweeting about Twitter developer topics in Japanese: @TwitterDevJP</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <favorited>false</favorited>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count>25</retweet_count>
+    <retweeted>false</retweeted>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <entities>
+      <user_mentions>
+        <user_mention end="119" start="106">
+          <id>70915829</id>
+          <screen_name>TwitterDevJP</screen_name>
+          <name>TwitterDevJP</name>
+        </user_mention>
+      </user_mentions>
+      <urls/>
+      <hashtags/>
+    </entities>
+  </status>
+</user>
+</users>

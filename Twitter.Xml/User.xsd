@@ -1,0 +1,91 @@
+﻿<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+<xs:element name="user">
+<xs:complexType>
+<xs:sequence>
+<xs:element type="xs:int" name="id"/>
+<xs:element type="xs:string" name="name"/>
+<xs:element type="xs:string" name="screen_name"/>
+<xs:element type="xs:string" name="location"/>
+<xs:element type="xs:anyURI" name="profile_image_url"/>
+<xs:element type="xs:string" name="profile_image_url_https"/>
+<xs:element type="xs:anyURI" name="url"/>
+<xs:element type="xs:string" name="description"/>
+<xs:element type="xs:string" name="protected"/>
+<xs:element type="xs:int" name="followers_count"/>
+<xs:element type="xs:string" name="profile_background_color"/>
+<xs:element type="xs:int" name="profile_text_color"/>
+<xs:element type="xs:string" name="profile_link_color"/>
+<xs:element type="xs:string" name="profile_sidebar_fill_color"/>
+<xs:element type="xs:string" name="profile_sidebar_border_color"/>
+<xs:element type="xs:byte" name="friends_count"/>
+<xs:element type="xs:string" name="created_at"/>
+<xs:element type="xs:byte" name="favourites_count"/>
+<xs:element type="xs:short" name="utc_offset"/>
+<xs:element type="xs:string" name="time_zone"/>
+<xs:element type="xs:anyURI" name="profile_background_image_url"/>
+<xs:element type="xs:string" name="profile_background_image_url_https"/>
+<xs:element type="xs:string" name="profile_background_tile"/>
+<xs:element type="xs:string" name="profile_use_background_image"/>
+<xs:element type="xs:string" name="geo_enabled"/>
+<xs:element type="xs:string" name="verified"/>
+<xs:element type="xs:short" name="statuses_count"/>
+<xs:element type="xs:string" name="lang"/>
+<xs:element type="xs:string" name="contributors_enabled"/>
+<xs:element type="xs:string" name="is_translator"/>
+<xs:element type="xs:short" name="listed_count"/>
+<xs:element type="xs:string" name="default_profile"/>
+<xs:element type="xs:string" name="default_profile_image"/>
+<xs:element type="xs:string" name="following"/>
+<xs:element type="xs:string" name="follow_request_sent"/>
+<xs:element type="xs:string" name="notifications"/>
+<xs:element name="status">
+<xs:complexType>
+<xs:sequence>
+<xs:element type="xs:string" name="created_at"/>
+<xs:element type="xs:long" name="id"/>
+<xs:element type="xs:string" name="text"/>
+<xs:element type="xs:string" name="source"/>
+<xs:element type="xs:string" name="truncated"/>
+<xs:element type="xs:string" name="in_reply_to_status_id"/>
+<xs:element type="xs:string" name="in_reply_to_user_id"/>
+<xs:element type="xs:string" name="in_reply_to_screen_name"/>
+<xs:element type="xs:string" name="geo"/>
+<xs:element type="xs:string" name="coordinates"/>
+<xs:element type="xs:string" name="place"/>
+<xs:element type="xs:string" name="contributors"/>
+<xs:element type="xs:byte" name="retweet_count"/>
+<xs:element type="xs:byte" name="favorite_count"/>
+<xs:element type="xs:string" name="favorited"/>
+<xs:element type="xs:string" name="retweeted"/>
+<xs:element name="entities">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="user_mentions">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="user_mention">
+<xs:complexType>
+<xs:sequence>
+<xs:element type="xs:string" name="screen_name"/>
+<xs:element type="xs:string" name="name"/>
+<xs:element type="xs:int" name="id"/>
+</xs:sequence>
+<xs:attribute type="xs:byte" name="start"/>
+<xs:attribute type="xs:byte" name="end"/>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element type="xs:string" name="urls"/>
+<xs:element type="xs:string" name="hashtags"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>
